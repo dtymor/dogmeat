@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="untitled4"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/Dsons/CLionProjects/untitled4/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Dsons/CLionProjects/untitled4/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Dsons/CLionProjects/untitled4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Dsons/CLionProjects/untitled4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Dsons/CLionProjects/untitled4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="untitled4">
+				<Option output="C:/Users/Dsons/CLionProjects/untitled4/cmake-build-debug/untitled4.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Dsons/CLionProjects/untitled4/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Dsons/CLionProjects/untitled4/cmake-build-debug/Makefile&quot;  VERBOSE=1 untitled4"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Dsons/CLionProjects/untitled4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Dsons/CLionProjects/untitled4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Dsons/CLionProjects/untitled4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="untitled4/fast">
+				<Option output="C:/Users/Dsons/CLionProjects/untitled4/cmake-build-debug/untitled4.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Dsons/CLionProjects/untitled4/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Dsons/CLionProjects/untitled4/cmake-build-debug/Makefile&quot;  VERBOSE=1 untitled4/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Dsons/CLionProjects/untitled4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Dsons/CLionProjects/untitled4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Dsons/CLionProjects/untitled4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/Dsons/CLionProjects/untitled4/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Dsons/CLionProjects/untitled4/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Dsons/CLionProjects/untitled4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Dsons/CLionProjects/untitled4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Dsons/CLionProjects/untitled4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/Dsons/CLionProjects/untitled4/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Dsons/CLionProjects/untitled4/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Dsons/CLionProjects/untitled4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Dsons/CLionProjects/untitled4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Dsons/CLionProjects/untitled4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/Dsons/CLionProjects/untitled4/ft_bzero.c">
+			<Option target="untitled4"/>
+		</Unit>
+		<Unit filename="C:/Users/Dsons/CLionProjects/untitled4/ft_calloc.c">
+			<Option target="untitled4"/>
+		</Unit>
+		<Unit filename="C:/Users/Dsons/CLionProjects/untitled4/ft_isalnum.c">
+			<Option target="untitled4"/>
+		</Unit>
+		<Unit filename="C:/Users/Dsons/CLionProjects/untitled4/ft_isalpha.c">
+			<Option target="untitled4"/>
+		</Unit>
+		<Unit filename="C:/Users/Dsons/CLionProjects/untitled4/ft_isascii.c">
+			<Option target="untitled4"/>
+		</Unit>
+		<Unit filename="C:/Users/Dsons/CLionProjects/untitled4/ft_isprint.c">
+			<Option target="untitled4"/>
+		</Unit>
+		<Unit filename="C:/Users/Dsons/CLionProjects/untitled4/ft_itoa .c">
+			<Option target="untitled4"/>
+		</Unit>
+		<Unit filename="C:/Users/Dsons/CLionProjects/untitled4/ft_memccpy.c">
+			<Option target="untitled4"/>
+		</Unit>
+		<Unit filename="C:/Users/Dsons/CLionProjects/untitled4/ft_memchr.c">
+			<Option target="untitled4"/>
+		</Unit>
+		<Unit filename="C:/Users/Dsons/CLionProjects/untitled4/ft_memcmp.c">
+			<Option target="untitled4"/>
+		</Unit>
+		<Unit filename="C:/Users/Dsons/CLionProjects/untitled4/ft_memcpy.c">
+			<Option target="untitled4"/>
+		</Unit>
+		<Unit filename="C:/Users/Dsons/CLionProjects/untitled4/ft_memmove.c">
+			<Option target="untitled4"/>
+		</Unit>
+		<Unit filename="C:/Users/Dsons/CLionProjects/untitled4/ft_memset.c">
+			<Option target="untitled4"/>
+		</Unit>
+		<Unit filename="C:/Users/Dsons/CLionProjects/untitled4/ft_putchar_fd .c">
+			<Option target="untitled4"/>
+		</Unit>
+		<Unit filename="C:/Users/Dsons/CLionProjects/untitled4/ft_putendl_fd.c">
+			<Option target="untitled4"/>
+		</Unit>
+		<Unit filename="C:/Users/Dsons/CLionProjects/untitled4/ft_putstr_fd .c">
+			<Option target="untitled4"/>
+		</Unit>
+		<Unit filename="C:/Users/Dsons/CLionProjects/untitled4/ft_split .c">
+			<Option target="untitled4"/>
+		</Unit>
+		<Unit filename="C:/Users/Dsons/CLionProjects/untitled4/ft_strcat.c">
+			<Option target="untitled4"/>
+		</Unit>
+		<Unit filename="C:/Users/Dsons/CLionProjects/untitled4/ft_strchr.c">
+			<Option target="untitled4"/>
+		</Unit>
+		<Unit filename="C:/Users/Dsons/CLionProjects/untitled4/ft_strdup.c">
+			<Option target="untitled4"/>
+		</Unit>
+		<Unit filename="C:/Users/Dsons/CLionProjects/untitled4/ft_strjoin.c">
+			<Option target="untitled4"/>
+		</Unit>
+		<Unit filename="C:/Users/Dsons/CLionProjects/untitled4/ft_strlcat.c">
+			<Option target="untitled4"/>
+		</Unit>
+		<Unit filename="C:/Users/Dsons/CLionProjects/untitled4/ft_strlcpy.c">
+			<Option target="untitled4"/>
+		</Unit>
+		<Unit filename="C:/Users/Dsons/CLionProjects/untitled4/ft_strlen.c">
+			<Option target="untitled4"/>
+		</Unit>
+		<Unit filename="C:/Users/Dsons/CLionProjects/untitled4/ft_strmapi .c">
+			<Option target="untitled4"/>
+		</Unit>
+		<Unit filename="C:/Users/Dsons/CLionProjects/untitled4/ft_strncmp.c">
+			<Option target="untitled4"/>
+		</Unit>
+		<Unit filename="C:/Users/Dsons/CLionProjects/untitled4/ft_strnstr.c">
+			<Option target="untitled4"/>
+		</Unit>
+		<Unit filename="C:/Users/Dsons/CLionProjects/untitled4/ft_strrchr.c">
+			<Option target="untitled4"/>
+		</Unit>
+		<Unit filename="C:/Users/Dsons/CLionProjects/untitled4/ft_strtrim.c">
+			<Option target="untitled4"/>
+		</Unit>
+		<Unit filename="C:/Users/Dsons/CLionProjects/untitled4/ft_substr.c">
+			<Option target="untitled4"/>
+		</Unit>
+		<Unit filename="C:/Users/Dsons/CLionProjects/untitled4/ft_tolower.c">
+			<Option target="untitled4"/>
+		</Unit>
+		<Unit filename="C:/Users/Dsons/CLionProjects/untitled4/ft_toupper.c">
+			<Option target="untitled4"/>
+		</Unit>
+		<Unit filename="C:/Users/Dsons/CLionProjects/untitled4/libft.h">
+			<Option target="untitled4"/>
+		</Unit>
+		<Unit filename="C:/Users/Dsons/CLionProjects/untitled4/main.c">
+			<Option target="untitled4"/>
+		</Unit>
+		<Unit filename="C:/Users/Dsons/CLionProjects/untitled4/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

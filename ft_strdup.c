@@ -16,5 +16,6 @@ void	*ft_strdup(char *str)
 		dst[i] = str[i];
 		i++;
 	}
+    dst[i] = '\0';
 	return ((void *)dst);
 }
